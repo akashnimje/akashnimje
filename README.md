@@ -68,10 +68,13 @@ Implemented monitoring strategies and troubleshooting workflows to **detect, ana
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+# 🚀 DevOps & Cloud Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,bash,nginx,prometheus,grafana"/>
+
+</p>
 
 ### ⚙️ Scripting & Version Control
 
