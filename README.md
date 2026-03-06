@@ -1,6 +1,8 @@
-💫 Hi 👋, I'm Akash Nimje
+<h1 align="center">👋 Hi, I'm Akash Nimje</h1>
 
-Infrastructure Engineer || Linux Administrator || Cloud & DevOps Engineer from India 🇮🇳
+<h3 align="center">
+Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
+</h3>
 
 Email Me 👉 ✉️ akashnimje05@gmail.com
  for Collaboration / DevOps Projects / Opportunities 🚀
