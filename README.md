@@ -1,35 +1,34 @@
-<h1 align="center">👋 Hi, I'm Akash Nimje</h1>
+👋 Hi, I'm Akash Nimje
+🚀 Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
 
-<h3 align="center">
-Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
-</h3>
+📧 Email Me: ✉️ akashnimje05@gmail.com
 
-Email Me 👉 ✉️ akashnimje05@gmail.com
- for Collaboration / DevOps Projects / Opportunities 🚀
+💼 Open for Collaboration • DevOps Projects • Opportunities
 
-🔭 I’m currently working as:
+👨‍💻 About Me
+
+🔭 Currently working as:
 Associate Consultant L2 – Infrastructure Services @ Niveshan Technology India Pvt. Ltd
 
-🌱 I’m currently learning:
+🌱 Currently learning:
 Advanced DevOps • Kubernetes • Infrastructure as Code (Terraform / CloudFormation)
 
-👯 I’m looking to collaborate on:
-Cloud Infrastructure • DevOps Automation • Linux-based Platform Engineering
+👯 Looking to collaborate on:
+Cloud Infrastructure • DevOps Automation • Linux Platform Engineering
 
-🤔 I’m exploring:
+🤔 Exploring:
 Production-grade DevOps implementations and scalable infrastructure systems
 
 💬 Ask me about:
-Linux Administration • AWS Infrastructure • Bash / Shell Scripting • Incident Management • Production Operations
+Linux Administration • AWS Infrastructure • Bash/Shell Scripting • Incident Management • Production Operations
 
 📫 How to reach me:
-akashnimje05@gmail.com
+✉️ akashnimje05@gmail.com
 
-😄 Pronouns:
-He / Him
+😄 Pronouns: He / Him
 
-⚡ Fun fact:
-I enjoy automating infrastructure tasks to make production environments more reliable 🚀
+⚡ Fun Fact:
+I enjoy automating infrastructure tasks to make production environments more reliable and scalable 🚀
 
 🏗️ Professional Snapshot
 
@@ -37,22 +36,25 @@ I enjoy automating infrastructure tasks to make production environments more rel
 ✔️ 5+ Years working with Linux, Cloud & DevOps environments
 ✔️ Managing production Linux servers and AWS infrastructure
 ✔️ Supporting business-critical applications in live environments
-✔️ Experience with incident management and root cause analysis
+✔️ Experience with incident management & root cause analysis
 ✔️ Implementing automation and infrastructure standardization
 ✔️ Ensuring high availability and performance of production workloads
 
 🚀 Highlight Projects
-
 🔹 Linux Infrastructure Automation
+
 Developed Bash automation scripts for server provisioning, health monitoring, and routine administrative tasks to reduce manual operational overhead.
 
 🔹 AWS Cloud Infrastructure Management
-Managed AWS environments including EC2, networking, storage, and IAM to ensure secure and scalable infrastructure for application deployments.
+
+Managed AWS environments (EC2, Networking, Storage, IAM) ensuring secure, scalable infrastructure for application deployments.
 
 🔹 CI/CD Deployment Support
+
 Supported CI/CD workflows enabling automated application deployments across development, testing, and production environments.
 
 🔹 Production Monitoring & Incident Response
+
 Implemented monitoring strategies and troubleshooting workflows to quickly detect, analyze, and resolve production incidents.
 
 ## 💻 Tech Stack:
