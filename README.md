@@ -11,8 +11,7 @@
 
 ---
 
-# 👨‍💻 About Me
-
+## 👨‍💻 About Me
 💡 Infrastructure professional with **7+ years of experience in IT Infrastructure**  
 and **5+ years specializing in Linux, Cloud, and DevOps environments**.
 
