@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=akashnimje&color=blue)
 # 💫 Hi 👋, I'm Akash Nimje
 
 ### Infrastructure Engineer || Linux Administrator || DevOps & Cloud Enthusiast from India 🇮🇳
