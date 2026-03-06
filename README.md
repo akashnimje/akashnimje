@@ -1,4 +1,4 @@
-👋 Hi, I'm Akash Nimje
+#👋 Hi, I'm Akash Nimje
 🚀 Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
 
 📧 Email Me: ✉️ akashnimje05@gmail.com
