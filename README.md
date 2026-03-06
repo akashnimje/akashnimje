@@ -80,27 +80,41 @@ Implemented monitoring strategies and troubleshooting workflows to **detect, ana
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Monitoring & Infrastructure
+## 📊 Monitoring & Infrastructure
+LVM • RAID • TCP/IP • DNS • HTTP/HTTPS  
+Patch Management • Incident Management  
 
-LVM • RAID • TCP/IP • DNS • HTTP/HTTPS • Patch Management • Incident Management
+---
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-(Your trophy widget will appear here)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashnimje&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-📊 GitHub Stats
+---
 
-(Your GitHub stats widgets will appear here)
+# 📊 GitHub Stats
 
-🌐 Connect With Me
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashnimje&show_icons=true&theme=tokyonight)
 
-📧 Email: akashnimje05@gmail.com
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashnimje&theme=tokyonight)
 
-💼 Open to Linux / Cloud / DevOps Engineering Opportunities
+---
 
-✍️ DevOps Philosophy
+# 🌐 Connect With Me
 
-“Reliable systems are not built by chance — they are engineered through automation, monitoring, and continuous improvement.”
+💼 **Open to Linux / Cloud / DevOps Engineering Opportunities**
+
+📧 Email: akashnimje05@gmail.com   Call me :7620262825
+
+🔗 LinkedIn  
+
+🔗 GitHub
+
+---
+
+# ✍️ DevOps Philosophy
+
+> “Reliable systems are not built by chance — they are engineered through automation, monitoring, and continuous improvement.”
 
 # 🐍 Contribution Snake
 
