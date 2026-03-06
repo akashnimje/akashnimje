@@ -1,33 +1,35 @@
 👋 Hi, I'm Akash Nimje
 🚀 Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
 
-📧 Email Me: ✉️ akashnimje05@gmail.com
+📧 Email: akashnimje05@gmail.com
 
-💼 Open for Collaboration • DevOps Projects • Opportunities
+💼 Open for: Collaboration • DevOps Projects • Opportunities
 
 👨‍💻 About Me
 
-🔭 Currently working as:
-Associate Consultant L2 – Infrastructure Services @ Niveshan Technology India Pvt. Ltd
+🔭 Currently working as
+Associate Consultant L2 – Infrastructure Services
+@ Niveshan Technology India Pvt. Ltd
 
-🌱 Currently learning:
+🌱 Currently learning
 Advanced DevOps • Kubernetes • Infrastructure as Code (Terraform / CloudFormation)
 
-👯 Looking to collaborate on:
+👯 Looking to collaborate on
 Cloud Infrastructure • DevOps Automation • Linux Platform Engineering
 
-🤔 Exploring:
+🤔 Exploring
 Production-grade DevOps implementations and scalable infrastructure systems
 
-💬 Ask me about:
+💬 Ask me about
 Linux Administration • AWS Infrastructure • Bash/Shell Scripting • Incident Management • Production Operations
 
-📫 How to reach me:
+📫 How to reach me
 ✉️ akashnimje05@gmail.com
 
-😄 Pronouns: He / Him
+😄 Pronouns
+He / Him
 
-⚡ Fun Fact:
+⚡ Fun fact
 I enjoy automating infrastructure tasks to make production environments more reliable and scalable 🚀
 
 🏗️ Professional Snapshot
@@ -47,7 +49,7 @@ Developed Bash automation scripts for server provisioning, health monitoring, an
 
 🔹 AWS Cloud Infrastructure Management
 
-Managed AWS environments (EC2, Networking, Storage, IAM) ensuring secure, scalable infrastructure for application deployments.
+Managed AWS environments including EC2, networking, storage, and IAM to ensure secure and scalable infrastructure for application deployments.
 
 🔹 CI/CD Deployment Support
 
@@ -55,7 +57,7 @@ Supported CI/CD workflows enabling automated application deployments across deve
 
 🔹 Production Monitoring & Incident Response
 
-Implemented monitoring strategies and troubleshooting workflows to quickly detect, analyze, and resolve production incidents.
+Implemented monitoring strategies and troubleshooting workflows to detect, analyze, and resolve production incidents quickly.
 
 ## 💻 Tech Stack:
 ### 🐧 Operating Systems
