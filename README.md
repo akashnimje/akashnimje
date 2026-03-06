@@ -108,7 +108,7 @@ Patch Management • Incident Management
 
 📞 **Contact:** +91 7620262825  
 
-🔗 **LinkedIn:** (Add your LinkedIn profile link here)
+🔗 **LinkedIn:** https://www.linkedin.com/in/akash-nimje-4065b0231/
 
 🔗 **GitHub:** https://github.com/akashnimje
 
