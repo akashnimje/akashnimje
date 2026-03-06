@@ -4,6 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=akashnimje&color=blue)
 
+# 🎓 Certifications
+
+![RHCSA](https://img.shields.io/badge/RedHat-RHCSA-Certified-red?style=for-the-badge&logo=redhat)
+
 📧 Email: akashnimje05@gmail.com  
 📞 Contact: +91 7620262825  
 
