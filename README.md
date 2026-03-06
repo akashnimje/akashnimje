@@ -1,98 +1,106 @@
+# 👋 Hi, I'm Akash Nimje
+
+### 🚀 Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
+
 ![](https://komarev.com/ghpvc/?username=akashnimje&color=blue)
-# 💫 Hi 👋, I'm Akash Nimje
 
-### Infrastructure Engineer || Linux Administrator || DevOps & Cloud Enthusiast from India 🇮🇳
+📧 Email: akashnimje05@gmail.com  
+📞 Contact: +91 7620262825  
 
-📧 **Email Me 👉 ✉️ akashnimje05@gmail.com For Collaboration / DevOps Projects / Opportunities 🚀**
+💼 Open to **Linux / Cloud / DevOps Engineering Opportunities**
 
 ---
 
-🔭 **I’m currently working as:** Associate Consultant L2 – Infrastructure Services @ Niveshan Technology India Pvt. Ltd  
+# 👨‍💻 About Me
 
-🌱 **I’m currently learning:** Advanced DevOps, Kubernetes & Infrastructure as Code (Terraform / CloudFormation)  
+💡 Infrastructure professional with **7+ years of experience in IT Infrastructure**  
+and **5+ years specializing in Linux, Cloud, and DevOps environments**.
 
-👯 **I’m looking to collaborate on:** Cloud Infrastructure, DevOps Automation & Linux Platform Engineering  
+🔭 **Current Role**  
+Associate Consultant L2 – Infrastructure Services  
+@ Niveshan Technology India Pvt. Ltd
 
-🤔 **I’m exploring:** Production-grade DevOps implementations & scalable infrastructure systems  
+🌱 **Currently Learning**
 
-💬 **Ask me about:** Linux Administration, AWS Infrastructure, Bash/Shell Scripting, Incident Management, Production Operations  
+Kubernetes • Terraform • Advanced DevOps Practices
 
-📫 **How to reach me:** akashnimje05@gmail.com  
+👯 **Looking to Collaborate On**
 
-😄 **Pronouns:** He/Him  
+Cloud Infrastructure • DevOps Automation • Linux Platform Engineering
 
-⚡ **Fun fact:** I enjoy automating infrastructure tasks to make production environments more reliable 🚀  
+💬 **Ask Me About**
+
+Linux Administration • AWS Infrastructure • Shell Scripting  
+Incident Management • Production Operations
+
+⚡ **Fun Fact**
+
+I enjoy automating infrastructure tasks to make production systems **reliable and scalable 🚀**
 
 ---
 
 # 🏗️ Professional Snapshot
 
-✔️ **7+ Years Experience in IT Infrastructure**  
+✔️ 7+ Years Experience in IT Infrastructure  
 
-✔️ **5+ Years working with Linux, Cloud & DevOps environments**  
+✔️ 5+ Years working with Linux, Cloud & DevOps environments  
 
-✔️ Managing **production Linux servers and AWS infrastructure**  
+✔️ Managing production Linux servers and AWS infrastructure  
 
-✔️ Supporting **business-critical applications in live environments**  
+✔️ Supporting business-critical applications in live environments  
 
-✔️ Experience with **incident management & root cause analysis**  
+✔️ Experience with incident management & root cause analysis  
 
-✔️ Implementing **automation and infrastructure standardization**  
+✔️ Implementing automation and infrastructure standardization  
 
-✔️ Ensuring **high availability and performance of production workloads**
+✔️ Ensuring high availability and performance of production workloads
+
+---
+
+# ⚙️ DevOps & Cloud Toolbox
+
+### 🐧 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![RHEL](https://img.shields.io/badge/RHEL-red?logo=redhat)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)
+![CentOS](https://img.shields.io/badge/CentOS-purple?logo=centos)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Amazon EKS](https://img.shields.io/badge/EKS-blue?logo=kubernetes)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-orange)
+
+### ⚙️ DevOps & Automation
+
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+### 💻 Scripting
+
+![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
 
 ---
 
 # 🚀 Highlight Projects
 
 ### 🔹 Linux Infrastructure Automation
-Developed Bash automation scripts for **server provisioning, health monitoring, and routine administrative tasks** to reduce manual operational overhead.
+Developed Bash automation scripts for server provisioning, health monitoring, and routine administrative tasks to reduce manual operational overhead.
 
 ### 🔹 AWS Cloud Infrastructure Management
-Managed AWS environments including **EC2, networking, storage, and IAM** to ensure secure and scalable infrastructure for application deployments.
+Managed AWS environments including EC2, networking, storage, and IAM ensuring secure and scalable infrastructure for application deployments.
 
 ### 🔹 CI/CD Deployment Support
-Supported CI/CD workflows enabling **automated application deployments** across development, testing, and production environments.
+Supported CI/CD pipelines enabling automated application deployments across development, testing, and production environments.
 
 ### 🔹 Production Monitoring & Incident Response
-Implemented monitoring strategies and troubleshooting workflows to **detect, analyze, and resolve production incidents quickly**.
+Implemented monitoring strategies and troubleshooting workflows to detect, analyze, and resolve production incidents quickly.
 
----
-
-## 💻 Tech Stack:
-### 🐧 Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-# 🚀 DevOps & Cloud Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,bash,nginx,prometheus,grafana"/>
-
-</p>
-
-### ⚙️ Scripting & Version Control
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 Monitoring & Infrastructure
-LVM • RAID • TCP/IP • DNS • HTTP/HTTPS  
-Patch Management • Incident Management  
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=akashnimje&theme=tokyonight&no-frame=true&row=1&column=7)
 ---
 
 # 📊 GitHub Stats
@@ -103,25 +111,34 @@ Patch Management • Incident Management
 
 ---
 
+# 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=akashnimje&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/akashnimje/akashnimje/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 🌐 Connect With Me
 
-💼 **Open to Linux / Cloud / DevOps Engineering Opportunities**
+🔗 LinkedIn  
+https://www.linkedin.com/in/akash-nimje-4065b0231/
 
-📧 **Email:** akashnimje05@gmail.com  
+🔗 GitHub  
+https://github.com/akashnimje
 
-📞 **Contact:** +91 7620262825  
+📧 Email  
+akashnimje05@gmail.com
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/akash-nimje-4065b0231/
-
-🔗 **GitHub:** https://github.com/akashnimje
+📞 Contact  
++91 7620262825
 
 ---
 
 # ✍️ DevOps Philosophy
 
 > “Reliable systems are not built by chance — they are engineered through automation, monitoring, and continuous improvement.”
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/akashnimje/akashnimje/blob/output/github-contribution-grid-snake.svg)
-
