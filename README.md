@@ -88,8 +88,7 @@ Patch Management • Incident Management
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akashnimje&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=akashnimje&theme=tokyonight&no-frame=true&row=1&column=7)
 ---
 
 # 📊 GitHub Stats
