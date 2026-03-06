@@ -95,6 +95,14 @@ HTTP / HTTPS
 Patch Management
 Incident Management
 
+## 🚀 DevOps & Cloud Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,bash,nginx,prometheus,grafana"/>
+
+</p>
+
 📊 GitHub Stats
 
 
