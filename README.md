@@ -53,35 +53,32 @@ Supported CI/CD workflows enabling automated application deployments across deve
 🔹 Production Monitoring & Incident Response
 Implemented monitoring strategies and troubleshooting workflows to quickly detect, analyze, and resolve production incidents.
 
-💻 Tech Stack
-🐧 Operating Systems
+## 💻 Tech Stack:
+### 🐧 Operating Systems
 
-Linux (RHEL • CentOS • Ubuntu)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-☁️ Cloud Platforms
+### ☁️ Cloud & DevOps
 
-AWS
-GCP (Basics)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-⚙️ DevOps & Automation
+### ⚙️ Scripting & Version Control
 
-Docker
-Kubernetes (Learning)
-Infrastructure as Code – Terraform / CloudFormation
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-🛠️ Scripting & Version Control
+### 📊 Monitoring & Infrastructure
 
-Bash / Shell Scripting
-Git
-GitHub
+LVM • RAID • TCP/IP • DNS • HTTP/HTTPS • Patch Management • Incident Management
 
-📊 Infrastructure & Monitoring
-
-LVM • RAID • TCP/IP • DNS • HTTP / HTTPS
-Patch Management • Incident Management
-
-🚀 DevOps & Cloud Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,bash,nginx,prometheus,grafana"/> </p>
 🏆 GitHub Trophies
 
 (Your trophy widget will appear here)
