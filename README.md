@@ -104,11 +104,13 @@ Patch Management • Incident Management
 
 💼 **Open to Linux / Cloud / DevOps Engineering Opportunities**
 
-📧 Email: akashnimje05@gmail.com   Call me :7620262825
+📧 **Email:** akashnimje05@gmail.com  
 
-🔗 LinkedIn  
+📞 **Contact:** +91 7620262825  
 
-🔗 GitHub
+🔗 **LinkedIn:** (Add your LinkedIn profile link here)
+
+🔗 **GitHub:** https://github.com/akashnimje
 
 ---
 
