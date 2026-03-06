@@ -73,11 +73,9 @@ I enjoy automating infrastructure tasks to make production systems **reliable an
 
 ### ⚙️ DevOps & Automation
 
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,bash,nginx,prometheus,grafana"/>
+</p>
 
 ### 💻 Scripting
 
