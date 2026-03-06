@@ -131,6 +131,3 @@ Incident Management
 
 “Reliable systems are not built by chance — they are engineered through automation, monitoring, and continuous improvement.”
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/akashnimje/akashnimje/blob/output/github-contribution-grid-snake.svg)
