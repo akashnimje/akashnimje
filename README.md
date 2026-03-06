@@ -1,63 +1,62 @@
-👋 Hi, I'm Akash Nimje
-🚀 Infrastructure Engineer | Linux Administrator | DevOps & Cloud Enthusiast 🇮🇳
+# 💫 Hi 👋, I'm Akash Nimje
 
-📧 Email: akashnimje05@gmail.com
+### Infrastructure Engineer || Linux Administrator || DevOps & Cloud Enthusiast from India 🇮🇳
 
-💼 Open for: Collaboration • DevOps Projects • Opportunities
+📧 **Email Me 👉 ✉️ akashnimje05@gmail.com For Collaboration / DevOps Projects / Opportunities 🚀**
 
-👨‍💻 About Me
+---
 
-🔭 Currently working as
-Associate Consultant L2 – Infrastructure Services
-@ Niveshan Technology India Pvt. Ltd
+🔭 **I’m currently working as:** Associate Consultant L2 – Infrastructure Services @ Niveshan Technology India Pvt. Ltd  
 
-🌱 Currently learning
-Advanced DevOps • Kubernetes • Infrastructure as Code (Terraform / CloudFormation)
+🌱 **I’m currently learning:** Advanced DevOps, Kubernetes & Infrastructure as Code (Terraform / CloudFormation)  
 
-👯 Looking to collaborate on
-Cloud Infrastructure • DevOps Automation • Linux Platform Engineering
+👯 **I’m looking to collaborate on:** Cloud Infrastructure, DevOps Automation & Linux Platform Engineering  
 
-🤔 Exploring
-Production-grade DevOps implementations and scalable infrastructure systems
+🤔 **I’m exploring:** Production-grade DevOps implementations & scalable infrastructure systems  
 
-💬 Ask me about
-Linux Administration • AWS Infrastructure • Bash/Shell Scripting • Incident Management • Production Operations
+💬 **Ask me about:** Linux Administration, AWS Infrastructure, Bash/Shell Scripting, Incident Management, Production Operations  
 
-📫 How to reach me
-✉️ akashnimje05@gmail.com
+📫 **How to reach me:** akashnimje05@gmail.com  
 
-😄 Pronouns
-He / Him
+😄 **Pronouns:** He/Him  
 
-⚡ Fun fact
-I enjoy automating infrastructure tasks to make production environments more reliable and scalable 🚀
+⚡ **Fun fact:** I enjoy automating infrastructure tasks to make production environments more reliable 🚀  
 
-🏗️ Professional Snapshot
+---
 
-✔️ 7+ Years Experience in IT Infrastructure
-✔️ 5+ Years working with Linux, Cloud & DevOps environments
-✔️ Managing production Linux servers and AWS infrastructure
-✔️ Supporting business-critical applications in live environments
-✔️ Experience with incident management & root cause analysis
-✔️ Implementing automation and infrastructure standardization
-✔️ Ensuring high availability and performance of production workloads
+# 🏗️ Professional Snapshot
 
-🚀 Highlight Projects
-🔹 Linux Infrastructure Automation
+✔️ **7+ Years Experience in IT Infrastructure**  
 
-Developed Bash automation scripts for server provisioning, health monitoring, and routine administrative tasks to reduce manual operational overhead.
+✔️ **5+ Years working with Linux, Cloud & DevOps environments**  
 
-🔹 AWS Cloud Infrastructure Management
+✔️ Managing **production Linux servers and AWS infrastructure**  
 
-Managed AWS environments including EC2, networking, storage, and IAM to ensure secure and scalable infrastructure for application deployments.
+✔️ Supporting **business-critical applications in live environments**  
 
-🔹 CI/CD Deployment Support
+✔️ Experience with **incident management & root cause analysis**  
 
-Supported CI/CD workflows enabling automated application deployments across development, testing, and production environments.
+✔️ Implementing **automation and infrastructure standardization**  
 
-🔹 Production Monitoring & Incident Response
+✔️ Ensuring **high availability and performance of production workloads**
 
-Implemented monitoring strategies and troubleshooting workflows to detect, analyze, and resolve production incidents quickly.
+---
+
+# 🚀 Highlight Projects
+
+### 🔹 Linux Infrastructure Automation
+Developed Bash automation scripts for **server provisioning, health monitoring, and routine administrative tasks** to reduce manual operational overhead.
+
+### 🔹 AWS Cloud Infrastructure Management
+Managed AWS environments including **EC2, networking, storage, and IAM** to ensure secure and scalable infrastructure for application deployments.
+
+### 🔹 CI/CD Deployment Support
+Supported CI/CD workflows enabling **automated application deployments** across development, testing, and production environments.
+
+### 🔹 Production Monitoring & Incident Response
+Implemented monitoring strategies and troubleshooting workflows to **detect, analyze, and resolve production incidents quickly**.
+
+---
 
 ## 💻 Tech Stack:
 ### 🐧 Operating Systems
